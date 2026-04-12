@@ -25,5 +25,9 @@
         android:id="@+id/action_about"
         android:title="@string/about"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/test_sensor"
+        android:title="@string/sensors"
+        app:showAsAction="never" />
 
 </menu>

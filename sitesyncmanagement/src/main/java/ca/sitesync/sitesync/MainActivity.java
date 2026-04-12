@@ -288,7 +288,11 @@ public class MainActivity extends AppCompatActivity {
         } else if (id == R.id.action_about) {
             loadFragment(new AboutFragment());
             return true;
+        } else if (id == R.id.test_sensor) {
+            loadFragment(new SensorsFragment());
+            return true;
         }
+
 
         return super.onOptionsItemSelected(item);
     }
