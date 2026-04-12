@@ -197,7 +197,8 @@ Tyler Meira (N01432291) 0CA
     <string name="google_sign_in_failed_no_account_data">Google sign in failled: No account data</string>
     <string name="google_sign_in_failed">Google sign in failed</string>
     <string name="authentication_failed">Authentication Failed</string>
-    <string name="signed_in_as">SIgn in As:</string>
+    <string name="signed_in_as">Sign in As:</string>
+    <string name="sensors">Sensors</string>
 
 
 </resources>
