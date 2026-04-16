@@ -1,6 +1,7 @@
 # CENG 355 Week 12 Presentations
 
-SFQ if you didn't do it last week.
+SFQ if you didn't do it last week.   
+/5 Work on getting poster up to date.   
 
 ## Presentations
 - Expected to present or be troubleshooting to be ready for next class.   
