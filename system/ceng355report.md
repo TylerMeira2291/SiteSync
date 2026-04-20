@@ -116,6 +116,7 @@ Insert Gantt Chart.
 
 ## 4.0 Integration
 <img src="/system/IMG_4096.jpg" width="300">
+
 ### 4.1 Enterprise Wireless Connectivity   
 ### 4.2 Database Configuration   
 ### 4.3 Network and Security Considerations   
