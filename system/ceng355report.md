@@ -115,7 +115,7 @@ Insert Gantt Chart.
 [Mobile Deliverable 5](../Docs/Deliverable5/Group13_SiteSync_Deliverable5.pdf)   
 
 ## 4.0 Integration
-![Project Case](system/IMG_4096.jpg) 
+![Project Case](/system/IMG_4096.jpg)
 ### 4.1 Enterprise Wireless Connectivity   
 ### 4.2 Database Configuration   
 ### 4.3 Network and Security Considerations   
